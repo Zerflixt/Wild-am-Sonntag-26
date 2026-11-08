@@ -1,0 +1,203 @@
+{
+  "titel": "Ausgabe 26",
+  "erstellt": "2026-11-08T09:05:17.493Z",
+  "quelldatei": "Seiten1-13.pdf, nur resilienz.pdf, nur karten.pdf, Schlusswort.pdf",
+  "seitenzahl": 27,
+  "raetsel": {
+    "aktiv": true,
+    "seite": 10
+  },
+  "renderScale": 2.6,
+  "webpQualitaet": 0.95,
+  "seiten": [
+    {
+      "nummer": 1,
+      "datei": "Ausgabe 26/seiten/seite-01.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 1
+    },
+    {
+      "nummer": 2,
+      "datei": "Ausgabe 26/seiten/seite-02.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 2
+    },
+    {
+      "nummer": 3,
+      "datei": "Ausgabe 26/seiten/seite-03.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 3
+    },
+    {
+      "nummer": 4,
+      "datei": "Ausgabe 26/seiten/seite-04.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 4
+    },
+    {
+      "nummer": 5,
+      "datei": "Ausgabe 26/seiten/seite-05.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 5
+    },
+    {
+      "nummer": 6,
+      "datei": "Ausgabe 26/seiten/seite-06.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 6
+    },
+    {
+      "nummer": 7,
+      "datei": "Ausgabe 26/seiten/seite-07.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 7
+    },
+    {
+      "nummer": 8,
+      "datei": "Ausgabe 26/seiten/seite-08.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 8
+    },
+    {
+      "nummer": 9,
+      "datei": "Ausgabe 26/seiten/seite-09.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 9
+    },
+    {
+      "nummer": 10,
+      "datei": "Ausgabe 26/seiten/seite-10.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 10
+    },
+    {
+      "nummer": 11,
+      "datei": "Ausgabe 26/seiten/seite-11.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 11
+    },
+    {
+      "nummer": 12,
+      "datei": "Ausgabe 26/seiten/seite-12.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 12
+    },
+    {
+      "nummer": 13,
+      "datei": "Ausgabe 26/seiten/seite-13.webp",
+      "typ": "webp",
+      "quelle": "Seiten1-13.pdf",
+      "quellseite": 13
+    },
+    {
+      "nummer": 14,
+      "datei": "Ausgabe 26/seiten/seite-14.webp",
+      "typ": "webp",
+      "quelle": "nur resilienz.pdf",
+      "quellseite": 1
+    },
+    {
+      "nummer": 15,
+      "datei": "Ausgabe 26/seiten/seite-15.webp",
+      "typ": "webp",
+      "quelle": "nur resilienz.pdf",
+      "quellseite": 2
+    },
+    {
+      "nummer": 16,
+      "datei": "Ausgabe 26/seiten/seite-16.webp",
+      "typ": "webp",
+      "quelle": "nur resilienz.pdf",
+      "quellseite": 3
+    },
+    {
+      "nummer": 17,
+      "datei": "Ausgabe 26/seiten/seite-17.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 1
+    },
+    {
+      "nummer": 18,
+      "datei": "Ausgabe 26/seiten/seite-18.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 2
+    },
+    {
+      "nummer": 19,
+      "datei": "Ausgabe 26/seiten/seite-19.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 3
+    },
+    {
+      "nummer": 20,
+      "datei": "Ausgabe 26/seiten/seite-20.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 4
+    },
+    {
+      "nummer": 21,
+      "datei": "Ausgabe 26/seiten/seite-21.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 5
+    },
+    {
+      "nummer": 22,
+      "datei": "Ausgabe 26/seiten/seite-22.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 6
+    },
+    {
+      "nummer": 23,
+      "datei": "Ausgabe 26/seiten/seite-23.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 7
+    },
+    {
+      "nummer": 24,
+      "datei": "Ausgabe 26/seiten/seite-24.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 8
+    },
+    {
+      "nummer": 25,
+      "datei": "Ausgabe 26/seiten/seite-25.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 9
+    },
+    {
+      "nummer": 26,
+      "datei": "Ausgabe 26/seiten/seite-26.webp",
+      "typ": "webp",
+      "quelle": "nur karten.pdf",
+      "quellseite": 10
+    },
+    {
+      "nummer": 27,
+      "datei": "Ausgabe 26/seiten/seite-27.webp",
+      "typ": "webp",
+      "quelle": "Schlusswort.pdf",
+      "quellseite": 1
+    }
+  ]
+}
